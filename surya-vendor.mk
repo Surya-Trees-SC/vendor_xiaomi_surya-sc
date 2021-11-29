@@ -942,7 +942,9 @@ PRODUCT_PACKAGES += \
     CneApp \
     IWlanService \
     TimeService \
+    adreno_graphics_driver \
     com.qualcomm.qti.gpudrivers.sm6150.api30 \
+    gpu_profiling_vulkan_layer \
     PowerOffAlarm \
     QtiTelephonyService \
     WfdService \
